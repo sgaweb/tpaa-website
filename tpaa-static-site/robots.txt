@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.pipeline-safety.org/sitemap.xml
